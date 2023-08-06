@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+A new Flutter project only shows the weather temperature in the enter location.
 
 ## Getting Started
 
